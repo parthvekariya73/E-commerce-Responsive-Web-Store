@@ -1,2 +1,3 @@
 # E-commerce-Responsive-Web-Store
-goal :- HTML, Css and Javascript Responsive Web store
+HTML, Css and Javascript Responsive Website for Designing Purposes.
+It is Not Dynamic Website but but created Beautiful Web.
